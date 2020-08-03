@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/reactapps/flames/static/js/main.9b55d585.chunk.js",
-    "main.js.map": "/reactapps/flames/static/js/main.9b55d585.chunk.js.map",
+    "main.js": "/reactapps/flames/static/js/main.03c27534.chunk.js",
+    "main.js.map": "/reactapps/flames/static/js/main.03c27534.chunk.js.map",
     "runtime-main.js": "/reactapps/flames/static/js/runtime-main.f0f21d9e.js",
     "runtime-main.js.map": "/reactapps/flames/static/js/runtime-main.f0f21d9e.js.map",
     "static/css/2.89f067aa.chunk.css": "/reactapps/flames/static/css/2.89f067aa.chunk.css",
-    "static/js/2.ded307be.chunk.js": "/reactapps/flames/static/js/2.ded307be.chunk.js",
-    "static/js/2.ded307be.chunk.js.map": "/reactapps/flames/static/js/2.ded307be.chunk.js.map",
+    "static/js/2.7cc8cab7.chunk.js": "/reactapps/flames/static/js/2.7cc8cab7.chunk.js",
+    "static/js/2.7cc8cab7.chunk.js.map": "/reactapps/flames/static/js/2.7cc8cab7.chunk.js.map",
     "index.html": "/reactapps/flames/index.html",
-    "precache-manifest.a8c24afd65acc5efd2f054d9cc0413be.js": "/reactapps/flames/precache-manifest.a8c24afd65acc5efd2f054d9cc0413be.js",
+    "precache-manifest.f02a32f350f58e549885764fc46b5a3b.js": "/reactapps/flames/precache-manifest.f02a32f350f58e549885764fc46b5a3b.js",
     "service-worker.js": "/reactapps/flames/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/reactapps/flames/static/css/2.89f067aa.chunk.css.map",
-    "static/js/2.ded307be.chunk.js.LICENSE.txt": "/reactapps/flames/static/js/2.ded307be.chunk.js.LICENSE.txt"
+    "static/js/2.7cc8cab7.chunk.js.LICENSE.txt": "/reactapps/flames/static/js/2.7cc8cab7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f0f21d9e.js",
     "static/css/2.89f067aa.chunk.css",
-    "static/js/2.ded307be.chunk.js",
-    "static/js/main.9b55d585.chunk.js"
+    "static/js/2.7cc8cab7.chunk.js",
+    "static/js/main.03c27534.chunk.js"
   ]
 }
