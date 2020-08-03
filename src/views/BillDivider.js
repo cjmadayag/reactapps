@@ -6,7 +6,7 @@ const BillDivider = ()=>{
   const [amount, setAmount] = React.useState(0);
   const [name,setName] = React.useState("");
   const [share,setShare] = React.useState("");
-  const [persons, setPersons] = React.useState([["john",123],["alpha",33]]);
+  const [persons, setPersons] = React.useState([]);
 
   const handleAddPerson = ()=>{
     setPersons([...persons,[name,share]]);
