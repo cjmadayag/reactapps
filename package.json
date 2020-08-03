@@ -14,7 +14,7 @@
     "react-scripts": "3.4.1",
     "reactstrap": "^8.4.1"
   },
-  "homepage": "http://cjmadayag.github.io/reactapps",
+  "homepage": "https://cjmadayag.github.io/reactapps",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
